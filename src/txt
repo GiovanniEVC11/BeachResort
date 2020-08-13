@@ -1,0 +1,12 @@
+
+
+Route nos permite crear enlaces anexando un componente por cada Route Component 
+
+exact permite renderizar el componente de forma unica mientras la URL pertenezca al Render Component perteneciente
+
+Route y Switch son componentes importados ... 
+
+Navbar es un componente creado para contener los componentes 
+
+ReactIcons y react Router 
+
