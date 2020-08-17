@@ -10,3 +10,14 @@ Navbar es un componente creado para contener los componentes
 
 ReactIcons y react Router 
 
+
+
+**************************************************************************
+
+Las funciones flecha (param1, param2, …, paramN) => { sentencias }
+Sintaxis compacta que una expresión regular.
+No tienen su propio this, arguments, super o new.target.
+NO USARLO como METODOS o CONSTRUCTORES.
+
+**************************************************************************
+

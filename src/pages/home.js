@@ -22,7 +22,7 @@ export default function Home() {
                 </Banner>
             </Hero>
             <Services />
-            <FeaturedRooms />
+            <FeaturedRooms />     
         </React.Fragment>
     );
 } 
