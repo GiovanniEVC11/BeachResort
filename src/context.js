@@ -117,7 +117,7 @@ class RoomProvider extends Component{
         // Filter by Size
         tempRooms = tempRooms.filter(room => room.size >= minSize && room.size <= maxSize);
 
-        // Filter by Breakfast and Pets
+        // Filter by Breakfast and Petcd s
 
         if(breakfast){
             tempRooms = tempRooms.filter(room => room.breakfast === true);
